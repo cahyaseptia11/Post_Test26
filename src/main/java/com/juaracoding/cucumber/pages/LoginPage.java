@@ -23,14 +23,17 @@ public class LoginPage {
     @FindBy(xpath = "//*[@id=\"app\"]/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button")
     WebElement btnLogin;
 
-    @FindBy(xpath = "//*[@id=\"app\"]/div[1]/div[2]/div[2]/div/div[1]/div[1]/div[1]/h5")
+    @FindBy(xpath = "//h6[@class='oxd-text oxd-text--h6 oxd-topbar-header-breadcrumb-module']")
     WebElement txtEmployeeInformation;
-    
+
     @FindBy(xpath = "//*[@id=\"app\"]/div[1]/div/div[1]/div/div[2]/div[2]/div/div[1]/div[1]/p")
     WebElement txtInvalidCredentials;
     
     @FindBy(xpath = "//div[@class='orangehrm-login-slot-wrapper']//div[1]//div[1]//span[1]")
     WebElement txtRequired;
+
+    @FindBy(xpath = "//h6[@class='oxd-text oxd-text--h6 oxd-topbar-header-breadcrumb-module']")
+     WebElement txtDashboard;
 
     public void login(String username, String password){
         this.username.sendKeys(username);
@@ -44,13 +47,17 @@ public class LoginPage {
     public String getTxtEmployeeInformation(){
         return txtEmployeeInformation.getText();
     }
-    
+
     public String getTxtInvalidCredentials(){
         return txtInvalidCredentials.getText();
     }
-    
+
     public String getTxtRequired(){
         return txtRequired.getText();
+    }
+
+    public String getTxtDashboard(){
+        return txtDashboard.getText();
     }
 
 }

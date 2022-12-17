@@ -8,6 +8,7 @@ import io.cucumber.testng.CucumberOptions;
                 "src/main/resources/features/02.Dashboard.feature"},
         glue = "com.juaracoding.cucumber.step_definitions",
         plugin = {"pretty","html:target/cucumber-reports.html","json:target/cucumber.json"})
+
 public class RunnerTest extends AbstractTestNGCucumberTests {
 
 }

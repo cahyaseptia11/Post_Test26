@@ -62,9 +62,8 @@ public class TestLogin {
 
     @Then("User valid credentials")
     public void user_valid_credentials() {
-        Assert.assertEquals(loginPage.getTxtEmployeeInformation(), "Employee Information");
-//        Assert.assertTrue(loginPage.getTxtEmployeeInformation().contains("Employee"));
+//        Assert.assertEquals(loginPage.getTxtDashboard(), "Dashboard");
+        Assert.assertEquals(loginPage.getTxtDashboard(),"Dashboard");
         extentTest.log(LogStatus.PASS, "User valid credentials");
     }
-
 }
