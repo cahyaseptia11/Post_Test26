@@ -1,0 +1,4 @@
+com\juaracoding\cucumber\step_definitions\Hooks.class
+com\juaracoding\cucumber\step_definitions\TestLogin.class
+com\juaracoding\cucumber\step_definitions\TestDashboard.class
+com\juaracoding\cucumber\step_definitions\RunnerTest.class

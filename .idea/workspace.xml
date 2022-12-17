@@ -5,37 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bff3d9e2-86a9-4e5a-bf61-f635786ff15c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/Dashboard_user_function_20221216051003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/Dashboard_user_function_20221216054638.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/Dashboard_user_function_20221216070005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/Dashboard_user_function_20221216120103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_invalid_login_20221216120041.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216084705.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216085811.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216093536.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216095400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216095727.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216100130.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216100826.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216100857.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216101246.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216101432.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216101610.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216102330.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216102713.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216103334.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221216120052.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/Chrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/drivers/strategies/Chrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/DashboardPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/cucumber/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/02.Dashboard.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/02.Dashboard.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/RunnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/RunnerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestDashboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestLogin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

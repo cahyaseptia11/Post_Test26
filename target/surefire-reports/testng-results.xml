@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-28T20:03:13 WIB" name="Command line suite" finished-at="2022-10-28T20:03:43 WIB" duration-ms="30272">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.juaracoding.cucumber.step_definitions.RunnerTest@37574691]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-10-28T20:03:13 WIB" name="Command line test" finished-at="2022-10-28T20:03:43 WIB" duration-ms="30272">
+      <class name="com.juaracoding.cucumber.step_definitions.RunnerTest">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.juaracoding.cucumber.step_definitions.RunnerTest@37574691]" started-at="2022-10-28T20:03:13 WIB" name="setUpClass" finished-at="2022-10-28T20:03:15 WIB" duration-ms="1878" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@78e22d35]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.juaracoding.cucumber.step_definitions.RunnerTest@37574691]" started-at="2022-10-28T20:03:15 WIB" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-10-28T20:03:33 WIB" duration-ms="17895" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User invalid login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login User"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.juaracoding.cucumber.step_definitions.RunnerTest@37574691]" started-at="2022-10-28T20:03:33 WIB" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-10-28T20:03:37 WIB" duration-ms="3676" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User valid login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login User"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.juaracoding.cucumber.step_definitions.RunnerTest@37574691]" started-at="2022-10-28T20:03:37 WIB" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-10-28T20:03:39 WIB" duration-ms="2069" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Dashboard user function"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Dashboard User"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.juaracoding.cucumber.step_definitions.RunnerTest@37574691]" started-at="2022-10-28T20:03:39 WIB" name="tearDownClass" finished-at="2022-10-28T20:03:43 WIB" duration-ms="4636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.juaracoding.cucumber.step_definitions.RunnerTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
